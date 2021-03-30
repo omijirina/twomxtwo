@@ -1,0 +1,114 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
+  image : "images/banner.png"
+  # button
+  button:
+    enable : true
+    label : "All Products"
+    link : "products"
+  # demo video
+  video:
+    enable : true
+    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "Acerca de nuestro producto"
+  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  image : "images/about.png"
+
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Ingredientes de nuestro producto"
+  subtitle : "natural"
+  materialItem:
+    # material item loop
+    - title : "Matcha Seeds"
+      image : "images/material/material-1.png"
+      content : "natural"
+      
+    # material item loop
+    - title : "Aloe Vera"
+      image : "images/material/material-2.png"
+      content : "natural"
+      
+    # material item loop
+    - title : "Turmeric"
+      image : "images/material/material-3.png"
+      content : "natural"
+      
+    # material item loop
+    - title : "Tulshi leaf"
+      image : "images/material/material-4.png"
+      content : "natural"
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "Beneficios de usar nuestro producto"
+  subtitle : "Consistencia de crema ultraligera y sin aceite"
+  image : "images/advantage.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Extremely lightweight"
+    - listItem : "Excellent breathability"
+    - listItem : "Can increase Cell activation"
+    - listItem : "Glowing Skin In 7 Days"
+    - listItem : "Increasing Glow Of Face"
+    - listItem : "More Beautiful Face Skin"
+
+
+######################## Promo Video ##########################
+video:
+  enable : true
+  title : "Cómo utilizar el producto?"
+  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  videoThumb : "images/video-thumb.jpg"
+  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Hoja de producto"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "Lo que dice la gente sobre nuestro producto"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Florentina Villca"
+      image : "images/clients/client-1.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Ana Pankara"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      rating : "three" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Gektor Sucso"
+      image : "images/clients/client-3.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Kalista Tankara"
+      image : "images/clients/client-2.jpg" # size 100px*100px
+      designation : "CEO, Dialogue Broad Band"
+      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      rating : "four" # rating star, one to five
