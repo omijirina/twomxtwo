@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://twomxtwo.vercel.app/"
 languageCode = "en"
 title = "Twomxtwo"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34900535910"
 email = "amoig@gmail.com"
 location = "Zumalacárregui Etorb., 10, BAJO, 48007 Bilbo, Bizkaia, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://twomxtwo.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
