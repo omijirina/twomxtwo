@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = ""
 languageCode = "en"
-title = "Ninyy"
+title = "Twomxtwo"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -94,9 +94,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+34900535910"
+email = "amoig@gmail.com"
+location = "Zumalacárregui Etorb., 10, BAJO, 48007 Bilbo, Bizkaia, Spain"
 # copyright
 copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
