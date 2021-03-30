@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  title : "Crema-gel de noche hidratante profunda"
   content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "Una visita a un balneario es un viaje costoso, no solo desde el punto de vista financiero, sino también un viaje que requiere mucho tiempo y que, según el estado de ánimo y la necesidad, un pequeño porcentaje de mujeres de nuestro país se lo puede permitir. Gracias a la exclusiva crema-gel de hidratación profunda de los especialistas de la empresa Vichy, el popular y saludable tratamiento de spa está disponible para todas las mujeres del mundo."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "Aplique esta crema en gel todas las noches en su rostro y cuello. También se puede utilizar como mascarilla, una o dos veces por semana (aplicar en una capa más gruesa, durante 10-15 minutos). Después de eso, retire los restos con una servilleta. No enjuague."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,26 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Kupuvala en farmacia daniy crema. El vino es ideal. En las heridas del shkіra, se trata de resortes y nіzhna. ¡Dyakuyu! En mi combinación, el tipo de shkiri"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "Me gustó mucho, no casi peor que los análogos caros, ¡tomaré más!"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "¡Una crema maravillosa!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "Me tomó mucho tiempo encontrar el maquillaje adecuado. Después del primer uso de esta crema, ¡no uso nada más! ¡La crema es super, el precio se justifica!"
       rating : "four" # rating star, one to five
